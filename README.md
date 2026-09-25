@@ -1,5 +1,5 @@
 # BalatroMultiplayerCompanion
-A bot to play Balatro Multiplayer matches against as a warm up, when you are alone or have no one to play with😢
+A bot to play Balatro Multiplayer matches against as a warm up, when you are alone or have no one to play with🥲
 
 ## How to use
 1.open powershell
