@@ -2,10 +2,14 @@
 A bot to play Balatro Multiplayer matches against as a warm up, when you are alone or have no one to play with🥲
 
 ## How to use
-1.open powershell
+1.Open cmd or powershell
 
-2.type py balatromp_bot.py
+2.Type:
 
-3.enter lobby code
+```bash
+py balatromp_bot.py
+```
 
-the bot will enter the lobby and ready asap.
+3.Enter lobby code
+
+The bot will enter the lobby and ready asap.
